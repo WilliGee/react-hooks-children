@@ -31,6 +31,11 @@ function App() {
           src="https://pbs.twimg.com/profile_images/3022993403/fdae67d800527328cee7a222f048dbbd.jpeg"
         />
       </Container>
+      <Container header="Test Component" direction="vertical">
+        <div>This is another example!</div>
+        <div>This is another example!</div>
+       
+      </Container>
     </div>
   );
 }
